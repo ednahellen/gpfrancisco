@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B27802-E8DE-4497-82AA-E78E4A290440}|GPSFrancisco\\GPSFrancisco.csproj|c:\\users\\edna.hsry\\documents\\visual studio 2022\\gsfrancisco-csharp\\gpsfrancisco\\frmgerenciarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B27802-E8DE-4497-82AA-E78E4A290440}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmgerenciarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B27802-E8DE-4497-82AA-E78E4A290440}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\gpsfrancisco\\frmgerenciarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68B27802-E8DE-4497-82AA-E78E4A290440}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmgerenciarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B27802-E8DE-4497-82AA-E78E4A290440}|GPSFrancisco\\GPSFrancisco.csproj|C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B27802-E8DE-4497-82AA-E78E4A290440}|GPSFrancisco\\GPSFrancisco.csproj|solutionrelative:gpsfrancisco\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGerenciarusuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\GPSFrancisco\\frmGerenciarusuario.cs",
+              "RelativeDocumentMoniker": "GPSFrancisco\\frmGerenciarusuario.cs",
+              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\GPSFrancisco\\frmGerenciarusuario.cs [Design]",
+              "RelativeToolTip": "GPSFrancisco\\frmGerenciarusuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:53:04.713Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGerenciarusuario.cs",
+              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\GPSFrancisco\\frmGerenciarusuario.cs",
+              "RelativeDocumentMoniker": "GPSFrancisco\\frmGerenciarusuario.cs",
+              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\GPSFrancisco\\frmGerenciarusuario.cs",
+              "RelativeToolTip": "GPSFrancisco\\frmGerenciarusuario.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwJYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:45:39.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\GPSFrancisco\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GPSFrancisco\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\GSFrancisco-CSharp\\GPSFrancisco\\frmLogin.cs",
+              "RelativeToolTip": "GPSFrancisco\\frmLogin.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:41:41.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
